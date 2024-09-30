@@ -1,0 +1,19 @@
+.container {
+  padding-top: 10rem;
+}
+
+h1 {
+  margin-bottom: 2rem;
+}
+button {
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+.result-box {
+  border: 1px solid lightgray;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  font-size: 2rem;
+}
