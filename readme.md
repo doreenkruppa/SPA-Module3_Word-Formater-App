@@ -14,4 +14,4 @@ For practicing JavaScript modules I wrote an app that allows to format a string 
 
 ### My Version:
 
-![](./ModulesAssignment-30September2024-ezgif.com-crop-video.mp4)
+![](./ModulesAssignment-30September2024-ezgif.com-video-to-gif-converter.gif)
